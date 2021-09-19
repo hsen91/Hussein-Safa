@@ -1,0 +1,14 @@
+{
+    "language": "English",
+    "news": "News",
+    "contact_us": "Contact Us",
+    "album": "Album",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone number",
+    "message": "Message",
+    "send": "Send",
+    "create_success": "Create Success Msg",
+    "create_fail": "Create Fail Msg",
+    "note_text": "Please create a success and fail message to be able to submit your message details below"
+}
